@@ -69,12 +69,28 @@ end
 ```
 > Here is an example of using a codeblock for an error that appears in bash.
 
-## Step 3 - Use Github Flavoured Markdown Task Lists 
+## Step 3 - Use Github Flavoured Markdown (GFM) Task Lists 
 
 Github extends Markdown where you have a list where you can check off items <sup>[1]</sup>
+
+- [x] Finish Step 1
+- [ ] Finish Step 2
+- [x] Finish Step 3
+
+## Step 4 - Use Emojis (Optional) 
+
+Githut Flavoured Markdown (GFM) supports emojis shortcodes. 
+Here are some examples:
+
+| Name | Shortcode | Emoji 
+| -- | -- | -- |
+| Cloud | `:cloud:` | :cloud: |
+
+
 
 ## References 
 - [Github Flavoured Markdown Spec](https://github.github.com/gfm/) 
 - [Basic writing and formatting syntax -(Github flavoured Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) 
 - [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sup>[1]</sup>
+- [GFM - Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) 
   
